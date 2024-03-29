@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sandaru Vihanga</h1>
 <h3 align="center">Undergraduate at University of Westminster.</h3>
-(img align="right" alt="Coding" width="400" src=https://i.pinimg.com/originals/6b/00/39/6b0039ec6d675b764f9b9c013450fbcb.gif")
+<img align="right" alt="Coding" width="400" src=https://i.pinimg.com/originals/6b/00/39/6b0039ec6d675b764f9b9c013450fbcb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandaruvk&label=Profile%20views&color=0e75b6&style=flat" alt="sandaruvk" /> </p>
 
