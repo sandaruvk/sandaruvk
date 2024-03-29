@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQF-yKhvZdL9VA/profile-displaybackgroundimage-shrink_350_1400/0/1711736606616?e=1717027200&v=beta&t=fxddH19AkBIyiSPP4bLF8YigMHmi-qD1omKa4mENvT4)
+![MasterHead](https://media.licdn.com/dms/image/D5616AQF-yKhvZdL9VA/profile-displaybackgroundimage-shrink_350_1400/0/1711736606616?e=1717027200&v=beta&t=fxddH19AkBIyiSPP4bLF8YigMHmi-qD1omKa4mENvT4)
 
 <h1 align="center">Hi 👋, I'm Sandaru Vihanga</h1>
 <h3 align="center">Undergraduate at University of Westminster.</h3>
