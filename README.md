@@ -15,7 +15,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=android,babel,bash,css,figma,firebase,flutter,gcp,html,java,js,mongodb,mysql,nodejs,php,python,react,tensorflow&perline=9" alt="skills array" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,php,dart,go,rust,react,nextjs,flutter,nodejs,nestjs,graphql,tailwind,babel,mysql,mongodb,firebase,aws,gcp,tensorflow,android,figma,git,github,bash,vscode&perline=10" alt="skills array" />
 </div>
 
 ###
