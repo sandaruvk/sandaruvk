@@ -7,7 +7,7 @@
 
 <p align="center">
   🎓 I'm currently studying in <b>University of Westminster</b><br>
-  💬 Ask me about <b>HTML, Python, Java, JavaScript, React, Flutter</b><br>
+  💬 Ask me about <b>Dart, Python, Java, JavaScript, React, Flutter</b><br>
   📫 How to reach me: <a href="mailto:sandaru2001n3@gmail.com">sandaru2001n3@gmail.com</a>
 </p>
 
