@@ -1,48 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sandaru Vihanga</h1>
-<h3 align="center">Undergraduate at University of Westminster.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandaruvk&label=Profile%20views&color=0e75b6&style=flat" alt="sandaruvk" /> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandaruvk&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+- 📫 How to reach me **sandaru2001n3@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sandaru_vk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandaru_vk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sandaru vihanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandaru vihanga" height="30" width="40" /></a>
+<a href="https://instagram.com/sandaru_vk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandaru_vk" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  🎓 I'm currently studying in <b>University of Westminster</b><br>
-  💬 Ask me about <b>Dart, Python, Java, JavaScript, React, Flutter</b><br>
-  📫 How to reach me: <a href="mailto:sandaru2001n3@gmail.com">sandaru2001n3@gmail.com</a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandaruvk&show_icons=true&locale=en&layout=compact" alt="sandaruvk" /></p>
 
-<h3 align="center">Languages and Tools:</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,php,dart,go,rust,react,nextjs,flutter,nodejs,nestjs,graphql,tailwind,babel,mysql,mongodb,firebase,aws,gcp,tensorflow,android,figma,git,github,bash,vscode&perline=10" alt="skills array" />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandaruvk&show_icons=true&locale=en" alt="sandaruvk" /></p>
 
-###
-
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-  <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
-  <a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" /></a>
-  <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" /></a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandaruvk&layout=compact&theme=dracula&hide_border=false" height="165" alt="top languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sandaruvk&show_icons=true&theme=dracula&hide_border=false" height="165" alt="github stats" />
-</div>
-
-###
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandaruvk/sandaruvk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandaruvk/sandaruvk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sandaruvk/sandaruvk/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandaruvk&" alt="sandaruvk" /></p>
